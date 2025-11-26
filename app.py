@@ -1,4 +1,4 @@
-num = 7
+num = input()
 if a% 2 == 0:
     print("even number")
 else:
